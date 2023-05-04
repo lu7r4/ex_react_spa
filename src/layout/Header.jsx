@@ -1,11 +1,9 @@
-import logo from './../img/logo.png';
 function Header() {
     return <header className="header">
-                <div className="images logo">
-                    </div>
                 <p>
-                about cats again.
+                Автоматизация звуков, читаем слоги
                 </p>
+
             </header>
 }
 
